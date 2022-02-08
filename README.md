@@ -6,10 +6,10 @@
 - My core domains involve Software and Web Development, Cyber Security and IOT.
 - I am also fond of Competative Programming.
  -------------------------------
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-singh-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 --------------------------------
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-singh-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 --------------------------------
 <h3 align="center">Connect with me :</h3>
