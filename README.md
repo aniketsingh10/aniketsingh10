@@ -5,6 +5,13 @@
 - I have profound interest in all fields of Computer Science and Technology .
 - My core domains involve Software and Web Development, Cyber Security and IOT.
 - I am also fond of Competative Programming.
+
+--------------------------------
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/aniketsingh10/count.svg" />
+</p>
+
  -------------------------------
   <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
