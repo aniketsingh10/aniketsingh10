@@ -15,10 +15,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsingh10" alt="aniruddha-omni" /></a> </p>
 
  -------------------------------
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
 --------------------------------
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
 --------------------------------
 <h3 align="center">Connect with me :</h3>
