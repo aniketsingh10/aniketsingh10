@@ -1,4 +1,20 @@
-<h3 align="center">👋 Hi, I’m Aniket Singh</h3>
+
+<h3 align="center" >
+  Welcome to Aniket Singh GitHub Profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Competative%20Coding%20Enthusiast;Second%20Year%20Student%20at%20SPPU;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=99B2DD&vCenter=true&size=22"></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aniketsingh144/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href="https://github.com/aniketsingh10"><img width="32px" alt="GitHub" title="GitHub" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+    
+</p>
+
+
   
   ------------------------------
 - I am currently pursuing my Bachelor's of Engineering in INFORMATION TECHNOLOGY from K. K. Wagh Institute of Engineering Education & Research, Nashik.
@@ -25,12 +41,12 @@
 </p>
 
 --------------------------------
-<h3 align="center">Connect with me :</h3>
+<!-- <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/aniketsingh144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketsingh144" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aniket_7841" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniket_7841" height="30" width="40" /></a>
 <a href="https://instagram.com/_aniket._.king_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aniket._.king_" height="30" width="40" /></a>
-</p>
+</p> -->
 
 --------------------------------
 <h3 align="center">Languages and Tools :</h3>
