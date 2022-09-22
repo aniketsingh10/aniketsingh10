@@ -89,6 +89,6 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
-
+--------------------------------
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-
+--------------------------------
