@@ -21,10 +21,9 @@
 
 
   ------------------------------
-- I am currently pursuing my Bachelor's of Engineering in INFORMATION TECHNOLOGY from K. K. Wagh Institute of Engineering Education & Research, Nashik.
-- I have profound interest in all fields of Computer Science and Technology .
-- My core domains involve Software and Web Development, Cyber Security and IOT.
-- I am also fond of Competative Programming.
+- Experienced with MERN Stack
+- Coding profiles include Leetcode, Codechef, and Gfg
+- Past roles include Quality Assurance and Doubt Solver Internships at InterviewHelp.io and Codechef respectively
 
 --------------------------------
 <p align="center"> 
@@ -33,17 +32,6 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsingh10" alt="aniruddha-omni" /></a> </p>
-
- -------------------------------
- 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh10&show_icons=true&locale=en" alt="aniketsingh10" />
-</p>
-
---------------------------------
-<p align="center">
-  <a href="https://github.com/aniketsingh10/github-readme-stats"><img alt="Aniket Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
 
 
 --------------------------------
@@ -90,6 +78,5 @@
 </p>
 
 --------------------------------
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
---------------------------------
+
 [![@aniketsingh10's Holopin board](https://holopin.me/aniketsingh10)](https://holopin.io/@aniketsingh10)
