@@ -31,7 +31,7 @@
   <img src="https://profile-counter.glitch.me/aniketsingh10/count.svg" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsingh10" alt="aniruddha-omni" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsingh10" alt="aniketsingh10" /></a> </p>
 
 
 --------------------------------
